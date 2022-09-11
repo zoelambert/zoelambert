@@ -1,6 +1,6 @@
 ### Hello, I'm Zoé! 👋
 
-I am currently a PhD student at the LMI (Laboratoire de Mathématiques de l'INSA). My research interests include medical image analysis with hybridization of variational and deep-learning-based methods, in particular, image segmentation and prior knowledge modelling.
+I am currently a PhD student at the LMI (Laboratory of Mathematics of INSA). My research interests include medical image analysis with hybridization of variational and deep-learning-based methods, in particular, image segmentation and prior knowledge modelling.
 
 Please find my research works and all my submitted papers on my <a href="http://lmi.insa-rouen.fr/91-zoelambert.html" target="_blank"> personal page</a> 😄
 
