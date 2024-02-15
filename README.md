@@ -1,8 +1,8 @@
 ### Hello, I'm Zoé! 👋
 
-I am currently a PhD student at the LMI (Laboratory of Mathematics of INSA). My research interests include medical image analysis with hybridization of variational and deep-learning-based methods, in particular, image segmentation and prior knowledge modelling.
+I graduated from INSA Rouen Normandie in 2018 with a specialization in applied Mathematics. Following that, I pursued a year as a Research Engineer at INSA Rouen Normandie, collaborating with the H. Becquerel Center in Rouen on medical image segmentation. Subsequently, I embarked on a doctoral thesis at INSA Rouen Normandie focusing on medical image segmentation using hybrid variational approaches and deep learning techniques, under the supervision of Carole Le Guyader from LMI and Caroline Petitjean from LITIS. I successfully defended my Ph.D on December 9, 2022. Since January 2, 2023, I have been working as a postdoctoral researcher at CEREMA on the DEPHY3GEO project, focusing on cliff image segmentation from drone imagery. Alongside my postdoc, I am also involved in teaching activities at INSA, serving as a full professor in the Mathematics department and as a teaching assistant in the STPI department.
 
-Please find my research works and all my submitted papers on my <a href="http://lmi.insa-rouen.fr/91-zoelambert.html" target="_blank"> personal page</a> 😄
+Please find my research works and all my submitted papers on my <a href="[http://lmi.insa-rouen.fr/91-zoelambert.html](https://zoe-lambert.fr)" target="_blank"> personal page</a> 😄
 
 
 
